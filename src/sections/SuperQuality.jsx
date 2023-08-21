@@ -23,7 +23,7 @@ const SuperQuality = () => {
         <div className='mt-11'>
         <Button label='View Details' iconURL={arrowRight} />
         </div>
-      </div>
+        </div>
       <div className="flex-1 flex justify-center items-center">
         <img
           src={shoe8}
